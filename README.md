@@ -1,4 +1,4 @@
-<img src="logo/LaTeX_logo.png" width="20%"> &nbsp; &nbsp; <img src="logo/uerj_logo_cor.png" width="10%">
+<img src="logo/uerj_logo_cor.png" width="10%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%"> 
 
 **Beamer-UERJ** é um repositório que disponibiliza disponibiliza um template de apresentações em Beamer chamado Rio de Janeiro, formatado com as cores da Universidade do Estado do Rio de Janeiro - UERJ.
 

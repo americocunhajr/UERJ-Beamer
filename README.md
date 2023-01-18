@@ -1,6 +1,6 @@
 <img src="logo/uerj_logo_cor.png" width="10%"> &nbsp; &nbsp; <img src="logo/LaTeX_logo.png" width="20%"> 
 
-**Beamer-UERJ** é um repositório que disponibiliza disponibiliza um template de apresentações em Beamer formatado com as cores da Universidade do Estado do Rio de Janeiro - UERJ.
+**UERJ-Beamer** é um repositório que disponibiliza disponibiliza um template de apresentações em Beamer formatado com as cores da Universidade do Estado do Rio de Janeiro - UERJ.
 
 Esse template foi customizado pelo nosso grupo de pesquisa, estão sendo disponibilizados aqui com o desejo que sejam úteis às novas gerações de alunos. Entretanto, esse pacote não tem nenhuma garantia de funcionalidade. Use-o por sua conta e risco!
 
@@ -11,4 +11,4 @@ Esse pacote foi desenvolvido por diferentes gerações de alunos e docentes da U
 
 ## Licença
 
-**Beamer-UERJ** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
+**UERJ-Beamer** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.

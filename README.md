@@ -12,3 +12,5 @@ Esse pacote foi desenvolvido por diferentes gerações de alunos e docentes da U
 ## Licença
 
 **UERJ-Beamer** é distribuído segundo os termos da licença GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes. Todas as novas contribuições devem ser feitas sob a licença GNU General Public License v3.0.
+
+<img src="logo/GPLv3_Logo.png" width="10%">
